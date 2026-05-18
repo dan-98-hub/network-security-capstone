@@ -52,5 +52,8 @@ Security tasks included:
 - Snort IDS Configuration
 - Vulnerability Assessment Exercises
 
+## Documentation
+Additional project documentation and lab reports are included in the `/reports` folder.
+
 ## Lessons Learned
 This project strengthened my understanding of network security operations, vulnerability management, and intrusion detection workflows. It also improved my ability to troubleshoot systems, analyze security data, and apply structured problem-solving methodologies in cybersecurity environments.
