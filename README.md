@@ -46,5 +46,11 @@ Security tasks included:
 
 ---
 
+## Included Labs
+- Nmap Scanning Lab
+- Wireshark Traffic Analysis
+- Snort IDS Configuration
+- Vulnerability Assessment Exercises
+
 ## Lessons Learned
 This project strengthened my understanding of network security operations, vulnerability management, and intrusion detection workflows. It also improved my ability to troubleshoot systems, analyze security data, and apply structured problem-solving methodologies in cybersecurity environments.
